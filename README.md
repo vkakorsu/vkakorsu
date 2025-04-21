@@ -1,4 +1,4 @@
-👋 Hi, I’m @vkakorsu  
+👋 Hi, I’m Vincent Kofi Akorsu  
 - 👀 I’m interested in C++, Python, cloud-native development, and building scalable systems.
 - 🌱 I’m currently learning advanced system architecture, DevOps, and AI/ML techniques.
 - 💞️ I’m looking to collaborate on open-source projects, developer tools, and impactful tech for education or communities.
