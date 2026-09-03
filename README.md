@@ -1,12 +1,16 @@
-👋 Hi, I’m Vincent Kofi Akorsu  
-- 👀 I’m interested in C++, Python, cloud-native development, and building scalable systems.
-- 🎓 I study Telecommunication Engineering at Kwame Nkrumah University of Science and Technology.
-- 🌱 I’m currently learning advanced system architecture, DevOps, and AI/ML techniques.
-- 💞️ I’m looking to collaborate on open-source projects, developer tools, and impactful tech for education or communities.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vincent-kofi-akorsu) | [Email](mailto:vkakorsu@gmail.com) | [Hashnode Blog](https://hashnode.com/@vkakorsu)
-- ⚡ Fun fact: I love optimizing code for performance and enjoy mentoring junior devs in my free time!
+# Vincent Kofi Akorsu
 
-<!---
-vkakorsu/vkakorsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I write the code at [EcoShade](https://ecoshade.org). Sole engineer behind a live precision-agriculture product: satellite crop-health, carbon tracking, and a farmer-facing UI.
+
+Python, web, GCP, Vertex AI, Gemini.
+
+## Selected work
+
+- [ecoshade.org](https://ecoshade.org) — production product. Try a free scan.
+- [cyclops-mrv-demo](https://github.com/vkakorsu/cyclops-mrv-demo) — STAC to COG. Sentinel-2 NDVI to aboveground carbon stock.
+- [farmsmart-ghana](https://github.com/vkakorsu/farmsmart-ghana) — public market data to crop-price intelligence.
+- [kigali-nbs-impact-dashboard](https://github.com/vkakorsu/kigali-nbs-impact-dashboard) — public impact dashboard for nature-based solutions in Kigali.
+
+## Contact
+
+[vincent@ecoshade.org](mailto:vincent@ecoshade.org) · [LinkedIn](https://www.linkedin.com/in/vincent-kofi-akorsu)
